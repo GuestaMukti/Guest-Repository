@@ -1,1 +1,3 @@
-Ini adalah file baru di branch yang berbeda.
+Ini adalah file di branch yang berbeda.
+
+Ini adalah tambahan file.
